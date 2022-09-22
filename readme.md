@@ -2,7 +2,7 @@
 
 ## Decision Requirements Diagram
 
-![DMN model](src/main/resources/com/myspace/vehicle-configuration/vehicle-configuration-dmn-svg.svg)
+![DMN model](src/main/resources/com/myspace/vehicle_configuration/vehicle-configuration-dmn-svg.svg)
 
 ## payload example
 
